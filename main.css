@@ -1,0 +1,29 @@
+@font-face {
+    font-family: RockSands;
+    src: url(fonts/rocksands-webfont.woff);
+}
+
+
+
+
+
+.navbar-brand {
+    font-variant-caps: small-caps;
+}
+
+
+
+
+
+.jumbotron {
+    background-color: white;
+ 
+    
+}
+
+.myH1 {
+    font-family: RockSands; 
+    font-size: 10em;
+}
+
+
